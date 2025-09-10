@@ -77,7 +77,7 @@
 
 ---
 
-⭐️ **Pinned Repos (Match Resume)**  
+⭐️ **Pinned Repos
 - `winsci` → Interactive CS/AI learning modules  
 - `vertical-farming-dashboard` → D3.js visualizations + REST APIs  
 - `huffman-compression` → Java implementation + GUI  
