@@ -22,7 +22,7 @@ Building reliable systems, useful AI, and clean UIs.
 
 ---
 
-## 🔗 Quick Links (Matches My Resume)
+## 🔗 Quick Links
 - 🧑‍🏫 **Winsci: Coding & Digital Literacy Tutor** → [winsci](https://github.com/ArizNaeem9/winsci)
 - 🌿 **Vertical Farming Dashboard (D3 + APIs)** → [vertical-farming-dashboard](https://github.com/ArizNaeem9/vertical-farming-dashboard)
 - 🔐 **Huffman Compression (Java + GUI)** → [huffman-compression](https://github.com/ArizNaeem9/huffman-compression)
