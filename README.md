@@ -26,8 +26,6 @@ Building reliable systems, useful AI, and clean UIs.
 - 🧑‍🏫 **Winsci: Coding & Digital Literacy Tutor** → [winsci](https://github.com/ArizNaeem9/winsci)
 - 🌿 **Vertical Farming Dashboard (D3 + APIs)** → [vertical-farming-dashboard](https://github.com/ArizNaeem9/vertical-farming-dashboard)
 - 🔐 **Huffman Compression (Java + GUI)** → [huffman-compression](https://github.com/ArizNaeem9/huffman-compression)
-- 🧠 **LangChain Prompt Templates + FastAPI** → [langchain-prompts-demo](https://github.com/ArizNaeem9/langchain-prompts-demo)
-- ⚡ **FastAPI + Redis Caching Demo (Perf)** → [fastapi-redis-demo](https://github.com/ArizNaeem9/fastapi-redis-demo)
 
 > Pinned repos (above) map 1:1 to the “Projects” and “Experience” bullets on my resume.
 
