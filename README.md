@@ -27,7 +27,7 @@ Building reliable systems, useful AI, and clean UIs.
 - 🌿 **Vertical Farming Dashboard (D3 + APIs)** → [vertical-farming-dashboard](https://github.com/ArizNaeem9/vertical-farming-dashboard)
 - 🔐 **Huffman Compression (Java + GUI)** → [huffman-compression](https://github.com/ArizNaeem9/huffman-compression)
 
-> Pinned repos (above) map 1:1 to the “Projects” and “Experience” bullets on my resume.
+> Pinned repos (above) map 1:1 to the “Projects” bullets on my resume.
 
 ---
 
