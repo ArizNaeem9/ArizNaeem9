@@ -2,7 +2,8 @@
 <div align="center">
 
 # 👋 Hi, I'm **Ariz Naeem**
-**CS @ Rice University (’27)** · **AI & Full-Stack Developer**  
+**CS @ Rice University (’27)** · **AI & Full-Stack Developer**
+**Prev @ Google, ASM, ClabAI**
 Building reliable systems, useful AI, and clean UIs.
 
 [Email](mailto:an105@rice.edu) •
