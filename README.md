@@ -1,9 +1,9 @@
 <!-- Centered banner -->
 <div align="center">
 
-# 👋 Hi, I'm **Ariz Naeem**
-**CS @ Rice University (’27)** · **AI & Full-Stack Developer** 
-**Prev @ Google, ASM, ClabAI**
+# 👋 Hi, I'm **Ariz Naeem**<br>
+**CS @ Rice University (’27)** · **AI & Full-Stack Developer**<br>
+**Prev @ Google, ASM, ClabAI**<br>
 Building reliable systems, useful AI, and clean UIs.
 
 [Email](mailto:an105@rice.edu) •
