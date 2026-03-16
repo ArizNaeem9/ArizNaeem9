@@ -7,7 +7,7 @@
 Building reliable systems, useful AI, and clean UIs.
 
 [Email](mailto:an105@rice.edu) •
-[LinkedIn](https://www.linkedin.com/in/ariznaeem/) •
+[LinkedIn](https://www.linkedin.com/in/ariznaeem/) 
 
 
 </div>
