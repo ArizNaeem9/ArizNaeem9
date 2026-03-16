@@ -24,7 +24,7 @@ Building reliable systems, useful AI, and clean UIs.
 ---
 
 ## 🔗 Quick Links
-- 🩺 **Symptra: AI-Powered Symptom Tracker** → [symptra]([insert-link-here](https://github.com/ryan-racer/Hackrare.git))
+- 🩺 **Symptra: AI-Powered Symptom Tracker** → [Symptra][https://github.com/ryan-racer/Hackrare.git]
 - 🏢 **Naeem Enterprises | Personal Project (Currently Working) (React)** → [react-code-clean-architecture](https://github.com/ArizNaeem9/react-code-clean-architecture)
 - 🧑‍🏫 **Winsci: Coding & Digital Literacy Tutor** → [winsci](https://github.com/ArizNaeem9/winsci)
 - ✍🏽 **Articles on Tech + Environment (Medium)** -> [tech-and-environment-articles](https://medium.com/@ariznaeem201)
