@@ -46,13 +46,6 @@ Building reliable systems, useful AI, and clean UIs.
 
 ---
 
-## 📌 What I’m Working On Now
-- Shipping a small **FastAPI + Redis** perf lab (caching patterns, latency metrics).
-- Extending **LangChain** demos (RAG pipelines with evaluators).
-- Cleaning up **D3** dashboard code and adding screenshots.
-
----
-
 ## 📨 Contact
 - Email: **an105@rice.edu**
 - LinkedIn: **/in/ariznaeem/**
