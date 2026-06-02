@@ -24,7 +24,7 @@ Building reliable systems, useful AI, and clean UIs.
 ---
 
 ## 🔗 Quick Links
-- 🛠️ ToolsFam & ToolsFam Go: Privacy-First Web Workspace & Extension → [ToolsFam](https://www.toolsfam.com/) | [Chrome Extension](https://chromewebstore.google.com/detail/jafkmdidploplaanfdoioipmijkicpel?utm_source=item-share-cp)
+- 🛠️ **ToolsFam & ToolsFam Go: Privacy-First Web Workspace & Extension** → [ToolsFam](https://www.toolsfam.com/) | [Chrome Extension](https://chromewebstore.google.com/detail/jafkmdidploplaanfdoioipmijkicpel?utm_source=item-share-cp)
 - 🩺 **Symptra: AI-Powered Symptom Tracker** → [Symptra](https://github.com/ryan-racer/Hackrare.git)
 - 🏢 **Naeem Enterprises | Personal Project (Currently Working) (React)** → [react-code-clean-architecture](https://github.com/ArizNaeem9/react-code-clean-architecture)
 - 🧑‍🏫 **Winsci: Coding & Digital Literacy Tutor** → [winsci](https://github.com/ArizNaeem9/winsci)
