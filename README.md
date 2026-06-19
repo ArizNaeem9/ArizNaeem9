@@ -6,20 +6,20 @@
 **Prev @ Google, ClabAI**<br>
 Building reliable systems, useful AI, and clean UIs.
 
-[Email](mailto:an105@rice.edu) •
-[LinkedIn](https://www.linkedin.com/in/ariznaeem/) 
-
+[Email](mailto:ariznaeem201@gmail.com) •
+[LinkedIn](https://www.linkedin.com/in/ariznaeem/) •
+[GitHub](https://github.com/ArizNaeem9)
 
 </div>
 
 ---
 
 ## ⚡ Highlights
-- 🧠 **AI/LLM**: Designed **15+ LangChain prompt templates** with RAG; shipped real-time AI features via **FastAPI + MongoDB** (900+ student interactions).
-- 🚀 **Performance**: Improved **LCP by 10%**; cut **P95 API latency by 12%** using Redis caching + PostgreSQL tuning.
-- 🧩 **Frontend**: React + Redux migrations, MUI redesigns, A11y/UX upgrades → **+4% average session duration**.
-- 🌱 **Data Viz**: Built **D3.js** dashboards; optimized SVG rendering → **–7% load time**, **+12% decision speed**.
-- 🫱🏽‍🫲🏾 **Impact**: **Winsci** (founded) — accessible CS/AI modules across **3 cities**, enabled **15+ learners** to earn via freelance work.
+- 🔬 **Research**: Analyzing a leaderboard gamification intervention across **47 students** at Rice's Positive Technology Lab — paired t-tests, McNemar's, ANOVA, and a Python/pandas pipeline with scikit-learn regression to isolate top predictors of learning gain.
+- 🏥 **Systems @ RiceApps**: Leading a team building a medical equipment tracking platform for **TIRR Memorial Hermann** (Next.js + Django), projecting a **20% cut in equipment retrieval time**, with a Redis-backed reservation engine preventing double-booking across **500+ simulated devices** (PostgreSQL on AWS EC2/RDS).
+- 🧠 **AI/LLM @ ClabAI**: Shipped GPT-4-powered essay feedback and recommendation features (Python, LangChain, embeddings), boosting average session length **6%**; built **15+ modular RAG prompt templates** and FastAPI + MongoDB APIs serving thousands of student interactions.
+- 🛠️ **ToolsFam**: Built a privacy-first dev tools platform + Chrome extension (React/Next.js) processing data fully client-side — **30+ active users**, **5.0/5 rating**.
+- 🫱🏽‍🫲🏾 **Impact**: Founded **WinSci** — accessible CS/AI learning modules across **3+ cities** in the US and Pakistan, helping **15+ students** earn income through freelance work.
 
 ---
 
@@ -32,23 +32,22 @@ Building reliable systems, useful AI, and clean UIs.
 - 🌿 **Vertical Farming Dashboard** → [vertical-farming-dashboard](https://github.com/ArizNaeem9/vertical-farming-dashboard)
 - 👨🏽‍💻 **Data Structures and Algorithms Practice (Python)** -> [data-structures-and-algorithms](https://docs.google.com/document/d/1J-J1sgiojrEGdp9ZcCgKvq8I15tvZWJ1ps-ycQkjYg0/edit?tab=t.0)
 
-  
-
-> Pinned repos (above) map 1:1 to the “Projects” bullets on my resume.
+> Pinned repos (above) map 1:1 to the "Projects" bullets on my resume.
 
 ---
 
 ## 🛠️ Tech I Use
-**Languages:** Python · Java · JavaScript/TypeScript · C/C++ · SQL  
-**Frontend:** React · Redux · Material UI · HTML5/CSS3  
-**Backend:** FastAPI · Node.js/Express · REST APIs · PostgreSQL · MongoDB · Redis  
-**AI:** LangChain · Prompt Engineering (LLMs)  
-**Tools:** Git/GitHub · Jest · Docker
+**Languages:** Python · Java · JavaScript (ES6+) · TypeScript · SQL · HTML5/CSS3
+**Frontend:** React · Next.js · Tailwind CSS
+**Backend:** Node.js/Express · Django · FastAPI · REST APIs
+**Databases & Cloud:** PostgreSQL · MongoDB · Redis · AWS (EC2, RDS) · Google Cloud Platform · Prisma · Vector Databases
+**AI:** LangChain · OpenAI API · Embeddings · Hugging Face · pandas · NumPy · scikit-learn
+**Tools:** Git/GitHub · Docker · VS Code · Chrome Extension API · Twilio
 
 ---
 
 ## 📨 Contact
-- Email: **an105@rice.edu**
+- Email: **ariznaeem201@gmail.com**
 - LinkedIn: **/in/ariznaeem/**
 - GitHub: **@ArizNaeem9**
 
