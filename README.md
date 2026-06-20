@@ -16,7 +16,6 @@ Building reliable systems, useful AI, and clean UIs.
 
 ## ⚡ Highlights
 - 🔬 **Research**: Analyzing a leaderboard gamification intervention across **47 students** at Rice's Positive Technology Lab — paired t-tests, McNemar's, ANOVA, and a Python/pandas pipeline with scikit-learn regression to isolate top predictors of learning gain.
-- 🏥 **Systems @ RiceApps**: Leading a team building a medical equipment tracking platform for **TIRR Memorial Hermann** (Next.js + Django), projecting a **20% cut in equipment retrieval time**, with a Redis-backed reservation engine preventing double-booking across **500+ simulated devices** (PostgreSQL on AWS EC2/RDS).
 - 🧠 **AI/LLM @ ClabAI**: Shipped GPT-4-powered essay feedback and recommendation features (Python, LangChain, embeddings), boosting average session length **6%**; built **15+ modular RAG prompt templates** and FastAPI + MongoDB APIs serving thousands of student interactions.
 - 🛠️ **ToolsFam**: Built a privacy-first dev tools platform + Chrome extension (React/Next.js) processing data fully client-side — **30+ active users**, **5.0/5 rating**.
 - 🫱🏽‍🫲🏾 **Impact**: Founded **WinSci** — accessible CS/AI learning modules across **3+ cities** in the US and Pakistan, helping **15+ students** earn income through freelance work.
