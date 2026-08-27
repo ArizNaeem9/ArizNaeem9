@@ -16,12 +16,12 @@ Love building reliable systems, useful AI, and clean UIs. (feel free to reach ou
 
 ## Quick Links
 - 🛠️ **ToolsFam & ToolsFam Go: Privacy-First Web Workspace & Extension** → [ToolsFam](https://www.toolsfam.com/) | [Chrome Extension](https://chromewebstore.google.com/detail/jafkmdidploplaanfdoioipmijkicpel?utm_source=item-share-cp)
-- 🩺 **Symptra: AI-Powered Symptom Tracker** → [Symptra](https://github.com/ryan-racer/Hackrare.git)
-- 🏢 **Naeem Enterprises | Personal Project (Currently Working) (React)** → [react-code-clean-architecture](https://github.com/ArizNaeem9/react-code-clean-architecture)
-- 🧑‍🏫 **Winsci: Coding & Digital Literacy Tutor** → [winsci](https://github.com/ArizNaeem9/winsci)
-- ✍🏽 **Articles on Tech + Environment (Medium)** -> [tech-and-environment-articles](https://medium.com/@ariznaeem201)
-- 🌿 **Vertical Farming Dashboard** → [vertical-farming-dashboard](https://github.com/ArizNaeem9/vertical-farming-dashboard)
-- 👨🏽‍💻 **Data Structures and Algorithms Practice (Python)** -> [data-structures-and-algorithms](https://docs.google.com/document/d/1J-J1sgiojrEGdp9ZcCgKvq8I15tvZWJ1ps-ycQkjYg0/edit?tab=t.0)
+- **Symptra: AI-Powered Symptom Tracker** → [Symptra](https://github.com/ryan-racer/Hackrare.git)
+- **Naeem Enterprises | Personal Project (Currently Working) (React)** → [react-code-clean-architecture](https://github.com/ArizNaeem9/react-code-clean-architecture)
+- **Winsci: Coding & Digital Literacy Tutor** → [winsci](https://github.com/ArizNaeem9/winsci)
+- **Articles on Tech + Environment (Medium)** -> [tech-and-environment-articles](https://medium.com/@ariznaeem201)
+- **Vertical Farming Dashboard** → [vertical-farming-dashboard](https://github.com/ArizNaeem9/vertical-farming-dashboard)
+- **Data Structures and Algorithms Practice (Python)** -> [data-structures-and-algorithms](https://docs.google.com/document/d/1J-J1sgiojrEGdp9ZcCgKvq8I15tvZWJ1ps-ycQkjYg0/edit?tab=t.0)
 
 
 ---
