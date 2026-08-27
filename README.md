@@ -14,15 +14,7 @@ Love building reliable systems, useful AI, and clean UIs. (feel free to reach ou
 
 ---
 
-## ⚡ Highlights
-- 🔬 **Research**: Analyzing a leaderboard gamification intervention across **47 students** at Rice's Positive Technology Lab — paired t-tests, McNemar's, ANOVA, and a Python/pandas pipeline with scikit-learn regression to isolate top predictors of learning gain.
-- 🧠 **AI/LLM @ ClabAI**: Shipped GPT-4-powered essay feedback and recommendation features (Python, LangChain, embeddings), boosting average session length **6%**; built **15+ modular RAG prompt templates** and FastAPI + MongoDB APIs serving thousands of student interactions.
-- 🛠️ **ToolsFam**: Built a privacy-first dev tools platform + Chrome extension (React/Next.js) processing data fully client-side — **30+ active users**, **5.0/5 rating**.
-- 🫱🏽‍🫲🏾 **Impact**: Founded **WinSci** — accessible CS/AI learning modules across **3+ cities** in the US and Pakistan, helping **15+ students** earn income through freelance work.
-
----
-
-## 🔗 Quick Links
+## Quick Links
 - 🛠️ **ToolsFam & ToolsFam Go: Privacy-First Web Workspace & Extension** → [ToolsFam](https://www.toolsfam.com/) | [Chrome Extension](https://chromewebstore.google.com/detail/jafkmdidploplaanfdoioipmijkicpel?utm_source=item-share-cp)
 - 🩺 **Symptra: AI-Powered Symptom Tracker** → [Symptra](https://github.com/ryan-racer/Hackrare.git)
 - 🏢 **Naeem Enterprises | Personal Project (Currently Working) (React)** → [react-code-clean-architecture](https://github.com/ArizNaeem9/react-code-clean-architecture)
@@ -35,17 +27,18 @@ Love building reliable systems, useful AI, and clean UIs. (feel free to reach ou
 
 ---
 
-## 🛠️ Tech I Use
-**Languages:** Python · Java · JavaScript (ES6+) · TypeScript · SQL · HTML5/CSS3
-**Frontend:** React · Next.js · Tailwind CSS
-**Backend:** Node.js/Express · Django · FastAPI · REST APIs
-**Databases & Cloud:** PostgreSQL · MongoDB · Redis · AWS (EC2, RDS) · Google Cloud Platform · Prisma · Vector Databases
-**AI:** LangChain · OpenAI API · Embeddings · Hugging Face · pandas · NumPy · scikit-learn
-**Tools:** Git/GitHub · Docker · VS Code · Chrome Extension API · Twilio
+## Technical Skills
+
+*   **Languages:** Python, Java, JavaScript (ES6+), TypeScript, SQL, HTML5/CSS3, C, C++, Go
+*   **Frontend:** React, Next.js, Recharts, Tailwind CSS
+*   **Backend:** Node.js/Express, Django, FastAPI, REST APIs, BullMQ
+*   **Databases & Cloud:** PostgreSQL, MongoDB, Redis, AWS (EC2, RDS), Prisma, Supabase, Vector Databases
+*   **AI, Machine Learning & Data Science:** LangChain, OpenAI API, Embeddings, Hugging Face, pandas, NumPy, scikit-learn, Matplotlib, NLP, PyTorch, TensorFlow, Keras, XGBoost, SciPy
+*   **Tools & Developer Environment:** Git/GitHub, Docker, VSCode, Twilio, Auth0, Chrome Extension API, Web Workers, PyCharm, IntelliJ IDEA
 
 ---
 
-## 📨 Contact
+## Contact
 - Email: **ariznaeem201@gmail.com**
 - LinkedIn: **/in/ariznaeem/**
 - GitHub: **@ArizNaeem9**
