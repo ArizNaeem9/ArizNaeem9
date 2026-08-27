@@ -23,7 +23,6 @@ Love building reliable systems, useful AI, and clean UIs. (feel free to reach ou
 - 🌿 **Vertical Farming Dashboard** → [vertical-farming-dashboard](https://github.com/ArizNaeem9/vertical-farming-dashboard)
 - 👨🏽‍💻 **Data Structures and Algorithms Practice (Python)** -> [data-structures-and-algorithms](https://docs.google.com/document/d/1J-J1sgiojrEGdp9ZcCgKvq8I15tvZWJ1ps-ycQkjYg0/edit?tab=t.0)
 
-> Pinned repos (above) map 1:1 to the "Projects" bullets on my resume.
 
 ---
 
