@@ -20,7 +20,7 @@ Love building reliable systems, useful AI, and clean UIs. (feel free to reach ou
 - **Symptra: AI-Powered Symptom Tracker** → [Symptra](https://github.com/ryan-racer/Hackrare.git)
 - **Manipulation in AI** -> [Manipulation](https://github.com/ArizNaeem9/Manipulation-Research-.git)
 - **Quantum Data Analysis Research** -> [Leaderboard Analysis](https://github.com/ArizNaeem9/Research-Do-Leaderboards-Improve-Learning.git)
-- **Naeem Enterprises | Personal Project (Currently Working) (React)** → [react-code-clean-architecture](https://github.com/ArizNaeem9/react-code-clean-architecture)
+- **Naeem Enterprises | Personal Project (React)** → [react-code-clean-architecture](https://github.com/ArizNaeem9/react-code-clean-architecture)
 - **Winsci: Coding & Digital Literacy Tutor** → [winsci](https://github.com/ArizNaeem9/winsci)
 - **Articles on Tech + Environment (Medium)** -> [tech-and-environment-articles](https://medium.com/@ariznaeem201)
 - **Vertical Farming Dashboard** → [vertical-farming-dashboard](https://github.com/ArizNaeem9/vertical-farming-dashboard)
