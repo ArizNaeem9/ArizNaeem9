@@ -38,14 +38,7 @@ Love building reliable systems, useful AI, and clean UIs. (feel free to reach ou
 *   **AI, Machine Learning & Data Science:** LangChain, OpenAI API, Embeddings, Hugging Face, pandas, NumPy, scikit-learn, Matplotlib, NLP, PyTorch, TensorFlow, Keras, XGBoost, SciPy
 *   **Tools & Developer Environment:** Git/GitHub, Docker, VSCode, Twilio, Auth0, Chrome Extension API, Web Workers, PyCharm, IntelliJ IDEA
 
----
 
-## Contact
-- Email: **ariznaeem201@gmail.com**
-- LinkedIn: **/in/ariznaeem/**
-- GitHub: **@ArizNaeem9**
-
----
 
 <!-- Optional: GitHub stats (feel free to keep/remove) -->
 <!--
