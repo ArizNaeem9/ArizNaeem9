@@ -7,7 +7,7 @@
 Love building reliable systems, useful AI, and clean UIs. (feel free to reach out :))
 
 [Email](mailto:ariznaeem201@gmail.com) •
-[Work Email](mailto:an105@rice.edu)
+[Work Email](mailto:an105@rice.edu) •
 [LinkedIn](https://www.linkedin.com/in/ariznaeem/) •
 
 
