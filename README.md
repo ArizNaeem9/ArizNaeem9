@@ -1,6 +1,6 @@
-hey! i'm **ariz** 👋
+hey! i'm **ariz** 
 
-- sophomore studying computer science @ rice, from abbottabad, pakistan 🇵🇰
+- sophomore studying computer science @ rice, from abbottabad, pakistan 🇵🇰🇺🇸
 - previously @ google and clabai, now building reliable systems, useful ai, and clean uis
 - working on ai alignment + manipulation research, and a bunch of side projects below
 - happy to chat, always learning!
@@ -9,7 +9,7 @@ hey! i'm **ariz** 👋
 
 ---
 
-### stuff i've built
+### stuff i've built and some random stuff i like to do in my free time
 
 - [toolsfam](https://www.toolsfam.com/) + [toolsfam go](https://chromewebstore.google.com/detail/jafkmdidploplaanfdoioipmijkicpel?utm_source=item-share-cp): privacy-first web workspace and chrome extension
 - [symptra](https://github.com/ryan-racer/Hackrare.git): ai-powered symptom tracker
