@@ -1,49 +1,26 @@
-<!-- Centered banner -->
-<div align="center">
+hey! i'm ariz 👋
 
-# I'm **Ariz Naeem**<br>
-**CS @ Rice University (’28)** · **AI & Full-Stack Developer**<br>
-**Prev @ Google, ClabAI**<br>
-Love building reliable systems, useful AI, and clean UIs. (feel free to reach out :))
+sophomore studying computer science @ rice 🇵🇰🇺🇸
+previously @ google and clabai, now building reliable systems, useful ai, and clean uis
+working on ai alignment + manipulation research, and a bunch of side projects below
+happy to chat, always learning!
 
-[Email](mailto:ariznaeem201@gmail.com) •
-[Work Email](mailto:an105@rice.edu) •
-[LinkedIn](https://www.linkedin.com/in/ariznaeem/) •
+email / an105@rice.edu / linkedin
 
-
-</div>
-
----
-
-## Quick Links
-- **ToolsFam & ToolsFam Go: Privacy-First Web Workspace & Extension** → [ToolsFam](https://www.toolsfam.com/) | [Chrome Extension](https://chromewebstore.google.com/detail/jafkmdidploplaanfdoioipmijkicpel?utm_source=item-share-cp)
-- **Symptra: AI-Powered Symptom Tracker** → [Symptra](https://github.com/ryan-racer/Hackrare.git)
-- **Manipulation in AI** -> [Manipulation](https://github.com/ArizNaeem9/Manipulation-Research-.git)
-- **Quantum Data Analysis Research** -> [Leaderboard Analysis](https://github.com/ArizNaeem9/Research-Do-Leaderboards-Improve-Learning.git)
-- **Naeem Enterprises | Personal Project (React)** → [react-code-clean-architecture](https://github.com/ArizNaeem9/react-code-clean-architecture)
-- **Winsci: Coding & Digital Literacy Tutor** → [winsci](https://github.com/ArizNaeem9/winsci)
-- **Articles on Tech + Environment (Medium)** -> [tech-and-environment-articles](https://medium.com/@ariznaeem201)
-- **Vertical Farming Dashboard** → [vertical-farming-dashboard](https://github.com/ArizNaeem9/vertical-farming-dashboard)
-- **Data Structures and Algorithms Practice (Python)** -> [data-structures-and-algorithms](https://docs.google.com/document/d/1J-J1sgiojrEGdp9ZcCgKvq8I15tvZWJ1ps-ycQkjYg0/edit?tab=t.0)
-
-
----
-
-## Technical Skills
-
-*   **Languages:** Python, Java, JavaScript (ES6+), TypeScript, SQL, HTML5/CSS3, C, C++, Go
-*   **Frontend:** React, Next.js, Recharts, Tailwind CSS
-*   **Backend:** Node.js/Express, Django, FastAPI, REST APIs, BullMQ
-*   **Databases & Cloud:** PostgreSQL, MongoDB, Redis, AWS (EC2, RDS), Prisma, Supabase, Vector Databases
-*   **AI, Machine Learning & Data Science:** LangChain, OpenAI API, Embeddings, Hugging Face, pandas, NumPy, scikit-learn, Matplotlib, NLP, PyTorch, TensorFlow, Keras, XGBoost, SciPy
-*   **Tools & Developer Environment:** Git/GitHub, Docker, VSCode, Twilio, Auth0, Chrome Extension API, Web Workers, PyCharm, IntelliJ IDEA
-
-
-
-<!-- Optional: GitHub stats (feel free to keep/remove) -->
-<!--
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArizNaeem9&show_icons=true&hide_title=true" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArizNaeem9&layout=compact" height="140" />
-</div>
--->
+stuff i've built
+toolsfam + toolsfam go: privacy-first web workspace and chrome extension
+symptra: ai-powered symptom tracker
+manipulation in ai: research on whether manipulation emerges in llms
+quantum leaderboard analysis: do leaderboards improve learning?
+winsci: coding and digital literacy tutoring
+vertical farming dashboard
+naeem enterprises: personal react project
+dsa practice in python
+articles on tech + environment (medium)
+what i work with
+languages: python, java, javascript, typescript, sql, c, c++, go
+frontend: react, next.js, tailwind, recharts
+backend: node/express, django, fastapi, bullmq
+data + cloud: postgresql, mongodb, redis, aws (ec2, rds), prisma, supabase, vector dbs
+ai/ml: pytorch, tensorflow, langchain, openai api, hugging face, scikit-learn, pandas, numpy
+tools: git, docker, twilio, auth0, chrome extension api
