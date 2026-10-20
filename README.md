@@ -1,6 +1,6 @@
 hey! i'm **ariz** 
 
-- sophomore studying computer science @ rice, from 🇵🇰🇺🇸
+- junior studying computer science @ rice, from 🇵🇰🇺🇸
 - building reliable systems, useful ai, and clean uis
 - working on ai alignment + manipulation research, and a bunch of side projects below
 - happy to chat, always learning!
