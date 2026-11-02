@@ -3,7 +3,7 @@ hey! i'm **ariz**
 - junior studying computer science @ rice, from 🇵🇰🇺🇸
 - building reliable systems, useful ai, and clean uis
 - working on ai alignment + manipulation research, and a bunch of side projects below
-- happy to chat, always learning!
+- happy to chat over some chai tea, always learning!
 
 [email](mailto:ariznaeem201@gmail.com) / [an105@rice.edu](mailto:an105@rice.edu) / [linkedin](https://www.linkedin.com/in/ariznaeem/)
 
